@@ -89,29 +89,29 @@ class Profile extends React.Component {
                         <Button
                           className="mr-4"
                           color="info"
-                          href="#pablo"
+                          href="https://www.linkedin.com/in/noor-azar/"
                           onClick={e => e.preventDefault()}
                           size="sm"
                         >
-                          Connect
+                        LinkedIn
                         </Button>
                         <Button
                           className="float-right"
                           color="default"
-                          href="#pablo"
+                          href="https://github.com/NoorAzar11"
                           onClick={e => e.preventDefault()}
                           size="sm"
                         >
-                          Message
+                          GitHub 
                         </Button>
                       </div>
                     </Col>
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
-                        {/* <div>
+                        <div>
                           <span className="heading">22</span>
-                          <span className="description">Friends</span>
-                        </div> */}
+                          <span className="description">Followers</span>
+                        </div>
                         <div>
                           <span className="heading">10</span>
                           <span className="description">Photos</span>
@@ -126,15 +126,15 @@ class Profile extends React.Component {
                   <div className="text-center mt-5">
                     <h3>
                       Noor Azar{" "}
-                      <span className="font-weight-light">, 27</span>
+                      <span className="font-weight-light">, 29</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
-                     Irbid,Jordan
+                     Irbid-Jordan
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Web Developer
+                    Full Stack Developer
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
@@ -145,7 +145,9 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                        I'm noor azar, I worked as a customer service representative for 3 years and 8 month and i join ASAC to be a web developer .
+                        Greeting, I'm Noor Azar,I have bachelor and diploma degree in Computer Information System From irbid national university ,I worked as a customer service representative 
+                        for 3 years and 8 months and I joined ASAC because I love programming and i'm planning to be 
+                        professional full stack developer.💻🔥☀
 
                          </p>
                         {/* <a href="#pablo" onClick={e => e.preventDefault()}>
